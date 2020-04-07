@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Dfsf1",
+  "name": "IISmu13dfsf1E",
+  "className": "dfsf1E",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-mu13-dfsf1",
+      "modelProjection": "dfsf1E"
+    }
+  ]
+}
